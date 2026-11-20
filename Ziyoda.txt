@@ -1,4 +1,9 @@
 To'raboyeva Ziyoda 21.12.2012
 hiiiiii
+<<<<<<< HEAD
 me doing greatttttt
 
+=======
+
+whatcha doinnnn
+>>>>>>> 218f695adc0338ab0cf446cb71b442b76d67632a
